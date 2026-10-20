@@ -1,0 +1,19 @@
+.btn{
+    color:white;
+    background-color: green;
+    margin-top: 20x;
+}
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    margin-bottom: 10px;
+}
+.input{
+    margin-bottom: 20px;
+}
+.button{
+    margin-top: 20px;
+}
